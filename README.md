@@ -6,7 +6,8 @@ This repo will go over the steps required to import custom Kubernetes Applicatio
 
 ### Importing Custom Kubernetes Application
 
-Detail instructions can be found here - https://support.hpe.com/hpesc/public/docDisplay?docId=a00eaf10hen_us&page=ManageClusters/managing-application-lifecycle.html
+Detail instructions can be found [here](https://support.hpe.com/hpesc/public/docDisplay?docId=a00eaf10hen_us&page=ManageClusters/managing-application-lifecycle.html)
+
 
 ### Import Applications
 
