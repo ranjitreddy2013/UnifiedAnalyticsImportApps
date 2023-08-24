@@ -1,4 +1,4 @@
-# UnifiedAnalyticsImportApps
+# Importing Custom Applications in HPE Ezmeral Unified Analytics
 
 Describes how to import, manage, and secure applications and frameworks in HPE Ezmeral Unified Analytics Software. Imported and included applications appear in the Applications & Frameworks screen in HPE Ezmeral Unified Analytics Software.
 
